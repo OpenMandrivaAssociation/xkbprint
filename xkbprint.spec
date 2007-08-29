@@ -33,6 +33,6 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root)
 %{_bindir}/xkbprint
-%{_mandir}/man1/xkbprint.1x.bz2
+%{_mandir}/man1/xkbprint.1x*
 
 
