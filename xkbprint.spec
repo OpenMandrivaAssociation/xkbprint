@@ -1,6 +1,6 @@
 Name:		xkbprint
 Version:	1.0.3
-Release:	8
+Release:	9
 Summary:	Print an XKB keyboard description
 Group:		Development/X11
 Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
